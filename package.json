@@ -1,0 +1,11 @@
+{
+  "name": "fooder-front",
+  "version": "1.0.0",
+  "description": "react fornt end app for fooder api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcin Bondaruk",
+  "license": "ISC"
+}
